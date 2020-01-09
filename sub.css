@@ -1,0 +1,101 @@
+.box{
+    border: 1px solid none;
+    width: 100%;
+    
+}
+
+.boxbar{
+    border: 1px solid black;
+    padding: 7px;
+    background: black;
+}
+
+.boxbar address a{
+    float: right;
+    text-decoration: none;
+    color:white;
+}
+
+.boxbar i{
+    color:white;
+    width: 30px;
+}
+.list{
+    border-bottom-width: 900px;
+    border-bottom: 1px solid darkgray;
+    padding:12px; 
+    float: right;
+}
+
+.list ul li{
+    float: left;
+    text-align: center;
+    width: 70px;
+    list-style-type: none;
+}
+
+
+.list ul li a{
+    text-decoration: none; 
+    color:white;
+
+}
+
+.list ul li a:hover{
+    border-bottom: 4px solid brown;
+    padding: 2px;
+}
+
+body{
+    background: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65),rgba(0,0,0,0.38),rgba(0,0,0,0)),url(learn_1.jpg)no-repeat;
+    background-size: cover;
+    font-family: latha;
+}
+
+.signup{
+    width: 200px;
+    margin: 5px;
+    position: absolute;
+    left: 20%;
+    top:10%;
+    border: 1px solid black;
+    padding: 40px;
+    background: black;
+    color:white;
+    border-radius: 8px;
+    opacity: 0.8;
+    font-family: cairo,sans-serif;
+}
+
+.signup form input{
+    
+    padding: 9px;
+    border: none;
+    margin: 4px auto;
+}
+
+.signup h3{
+    border-bottom: 1px solid darkgray;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cairo, sans-serif;
+    padding: 5px;
+    text-shadow: 1px 1px 1px;
+    font-weight: bold;
+    padding-top: -30px auto;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.signup input[type="submit"]{
+    color:white;
+    background-color: steelblue;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
