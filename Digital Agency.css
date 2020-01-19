@@ -1,0 +1,96 @@
+ .textbox{
+    margin: 0% 15% auto;
+    line-height: 50px;
+    font-family: kulim park , sans-serif;
+    font-size: 18px;
+}
+
+ul li{
+    float: left;
+    width: 100px;
+    list-style-type: none;
+    border-bottom: 0px solid darkgray;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+}
+
+ul li a:hover{
+    border-bottom: 4px solid crimson;
+    color:white;
+    opacity: 0.6;
+}
+
+body{
+    background:linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0)) ,url(fundo07.jpg)no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.text{
+    width: 900px;
+    font-size: 25px;
+    position: absolute;
+    left: 10%;
+    top:30%;
+    font-family: titillium web ,sans-serif;
+}
+
+h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 50px;
+    text-shadow: 0px 1px 0px;
+}
+
+font{
+    color: darkgray;
+    opacity: 0.4;
+}
+
+h3{
+    font-size:16px;
+    font-family: titillium web,sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    left: 0%;
+    top: 72%;
+    opacity: 0.1;
+}
+
+.box{
+    position: absolute;
+    left: 10%;
+    top: 55%;
+}
+.box form input[type="submit"]{
+    padding: 10px;
+    border-style: none;
+    background-color: crimson;
+    border: 1px solid none;
+    color:white;
+}
+
+.icon{
+    font-size: 30px;
+    font-weight: bolder;
+   
+}
+.fa-internet-explorer{
+    position: absolute;
+    left:10%;
+    top:3%;
+}
+i{
+    color: crimson;
+}
+
+
+
+
+
+
+
+
