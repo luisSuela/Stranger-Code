@@ -1,0 +1,126 @@
+body{
+    background-color: darkslategrey;
+    cursor: pointer;
+}
+
+.box{
+    border: 1px solid black;
+    height: 240px;
+    width: 400px;
+    margin: 50px auto;
+    margin-top: 90px;
+    background: url(map.jpg);
+    background-size: cover;
+    border-radius: 8px;
+    box-shadow: 2px 4px 18px 5px;
+    color: currentColor;
+    opacity: 0.8;
+}
+
+.box:hover{
+    box-shadow: 3px 6px 28px 7px;
+}
+
+img{
+    position: absolute;
+    left: 56%;
+    top:13%;
+}
+
+.chip{
+    position: absolute;
+    left: 36.5%;
+    top: 26%;
+}
+
+
+h{
+    font-family: kelly slab,cursive;
+    color: wheat;
+    font-size: 28px;
+    position: absolute;
+    left: 37%;
+    top:36%;
+    letter-spacing: 6px;
+}
+
+h1{
+    font-family: kelly slab,cursive;
+    color: wheat;
+    font-size:12px;
+    position: absolute;
+    left: 37%;
+    top:40%;
+    font-weight: normal;
+    opacity: 0.2;
+}
+
+h4{
+    width: 10px;
+    font-family: kelly slab,cursive;
+    color: wheat;
+    font-size:12px;
+    position: absolute;
+    left:50%;
+    top:40%;
+    font-weight: normal;
+    line-height:-10px;
+    opacity: 0.3;
+}
+
+t{
+    font-family: kelly slab,cursive;
+    color: wheat;
+    position: absolute;
+    left:52%;
+    top:43.4%;
+    letter-spacing:2px;
+    
+}
+
+h2{
+    font-family: kelly slab,cursive;
+    color: wheat;
+    font-weight: normal;
+    position: absolute;
+    left: 37%;
+    top:43%;
+    letter-spacing: 3px;
+}
+.mastercard{
+    position: absolute;
+    left: 57%;
+    top: 41%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
