@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #012333;
+    font-family: sen,sans-serif;
+}
+
+.box{
+    border: 1px solid none;
+    position: absolute;
+    left: 65%;
+    top:5%;
+}
+
+ul li{
+    float: left;
+    list-style-type: none;
+    font-size: 17px;
+    font-weight: normal;
+    width: 75px;
+    opacity: 0.9;
+    text-transform: capitalize;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+ul li a:hover{
+    border-bottom: 3px solid #ff8b3d;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 9px;
+}
+
+.icon .search{
+    position: absolute;
+    left: 95%;
+    top: -5%;
+    display: inline-block;
+}
+.cart{
+    position: absolute;
+    left: 115%;
+    top:-15%;
+    display: inline-block;
+}
+
+h2{
+    position:absolute;
+    left: 125%;
+    top:-85%;
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+    width: 20px;
+    background: #ff8b3d;
+    border-radius: 70px;
+    text-align: center;
+}
+
+.search:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+.cart:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+input[type="submit"]{
+    position: absolute;
+    left: 145%;
+    top:-56%;
+    display: inline-block;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background:#ff8b3d;
+    color: white;
+    font-family: sen,sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    box-shadow: 0px 2px 10px #000000;
+    border-bottom: none;
+}
+
+form,input[type="submit"]:hover{
+    background:#012333;
+}
+
+h4{
+    position: absolute;
+    left: -345%;
+    top:-55%;
+    font-size: 40px;
+    color:white;
+    text-transform: uppercase;
+}
+
+font{
+    color:#ff8b3d;
+}
+
+.image{
+    position: absolute;
+    left: 6%;
+    top:12%;
+    opacity: 0.8;
+}
+
+h5{
+    position: absolute;
+    left: 52%;
+    top:30%;
+    font-size: 50px;
+    font-weight: bold;
+    color:white;
+    text-transform: capitalize;
+    opacity: 0.9;
+}
+
+h6{
+    position: absolute;
+    left: 67%;
+    top:40%;
+    font-size: 20px;
+    font-weight: normal;
+    color:white;
+    text-transform: capitalize;
+    opacity: 0.5;
+}
+
+h7{
+    position: absolute;
+    left: 54%;
+    top:45%;
+    font-size: 20px;
+    font-weight: normal;
+    text-transform: capitalize;
+    color: white;
+    opacity: 0.3;
+    text-align: center;
+    font-size: 12px;
+}
+
+.buttons{
+    position: absolute;
+    left: 66%;
+    top:52%;
+    word-spacing: 10px;
+}
+
+i{
+    color: white;
+}
+
+button{
+    padding: 10px;
+    background: #ff8b3d;
+    color:white;
+    border: none;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-size: 18px;
+    border-radius: 8px;
+    box-shadow:7px 3px 10px #000000;
+}
+
+.apple{
+    background: #000000;
+}
+
+button:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
