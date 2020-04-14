@@ -1,0 +1,289 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #0B162A;
+}
+
+.box{
+    border: 1px solid #0B162A;
+    margin: 10px auto;
+    width: 370px;
+    height: 585px;
+    border-radius: 15px;
+    box-shadow: 0px -1px 18px;
+    position: fixed;
+    left: 36%;
+    top:3%;
+}
+
+.icon{
+    color:#FDEFFF;
+}
+
+.fa-arrow-left{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.fa-ellipsis-v{
+    margin-top: 30px;
+    margin-left: 84%;
+    font-size: 18px;
+}
+
+.fa-heart{
+    margin-top: -20px;
+    margin-left: 83%;
+    font-size: 18px;
+}
+
+.image{
+    position: absolute;
+    left: 37%;
+    top:8%;
+}
+
+img{
+    border-radius: 50px;
+    box-shadow: 1px 10px 20px;
+}
+
+.fa-check{
+    width:30px;
+    height: 30px;
+    font-size: 14px;
+}
+
+.check{
+    position: absolute;
+    left: 74%;
+    top:70%;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background: linear-gradient(to top right,#8162CE, #F54BA5);
+    text-align: center;
+}
+
+h2{
+    font-family: roboto;
+    color:#ffffff;
+    font-weight: normal;
+    position: absolute;
+    top:120%;
+    left:2%;
+    width: 200px;
+}
+
+h3{
+    font-family: roboto;
+    color:#7c8097;
+    font-weight: normal;
+    position: absolute;
+    top:152%;
+    left:-30%;
+    width: 500px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+h4{
+  font-family: roboto;
+    color:#B7B8C0;
+    font-weight: normal;
+    position: absolute;
+    top: 175%;
+    left: -81%;
+    width: 260px;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+button{
+    position: absolute;
+    top:225%;
+    left: -12%;
+    width: 120px;
+    height: 40px;
+    border: none;
+    font-family: roboto;
+    color:white;
+    text-transform: capitalize;
+    border-radius: 20px;
+    background:linear-gradient(to top right,#8162CE,#F54BA5);
+    box-shadow: 0px 1px 8px #000000;
+}
+
+button:hover{
+    color: whitesmoke;
+    background-image: url(Imageh.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
+
+hr{
+    width: 320px;
+    margin: 80% 25px;
+    opacity: 0.1;
+}
+
+.state01{
+    position: absolute;
+    left: 8%;
+    top: 65%;
+}
+
+.dribble{
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    background:url(instagramcolor.jpg);
+    background-size: cover;
+}
+
+.dribble:hover{
+    background:url(instacolor.png);
+    background-size: cover;
+}
+
+h5{
+    position: absolute;
+    left: 8.5%;
+    top:80%;
+    font-family: roboto;
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+}
+h6{
+    position: absolute;
+    left: 9.3%;
+    top:85%;
+    font-family: roboto;
+    font-size:16px;
+    color:#2D354A;
+    font-weight: 300;
+}
+
+.state02{
+    position: absolute;
+    left: 39.7%;
+    top:65%;
+    
+}
+
+.twitter{
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    background:#0084B4;
+    
+}
+
+.twitter:hover{
+    background:#08a0e9;
+}
+
+h7{
+    position: absolute;
+    left:39.5%;
+    top:80%;
+    font-family: roboto;
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+h8{
+    position: absolute;
+    left:41.4%;
+    top:85%;
+    font-family: roboto;
+    font-size:16px;
+    color:#2D354A;
+    font-weight: 300;
+}
+
+.state03{
+    position: absolute;
+    left: 69.5%;
+    top:65%;
+}
+
+
+.facebook{
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    background:#3b5998;
+}
+
+.facebook:hover{
+    background:#4267B3;
+}
+
+h9{
+    position: absolute;
+    left:69.7%;
+    top:80%;
+    font-family: roboto;
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+h10{
+    position: absolute;
+    left:71.4%;
+    top:85%;
+    font-family: roboto;
+    font-size:16px;
+    color:#2D354A;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
