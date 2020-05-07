@@ -1,0 +1,316 @@
+.textbox{
+    float: right;
+    border: 1px solid solid black;
+}
+
+ul li{
+    float:left;
+    width: 100px;
+    text-transform: capitalize;
+    list-style-type: none;
+    font-family: kulim park ,sans-serif;
+}
+
+ul li a{
+    text-decoration: none;
+    color:white;
+}
+ul li a:hover{
+    color:hotpink;
+}
+
+b{
+    color: hotpink;
+    border-bottom: 2px solid hotpink;
+    font-weight: normal;
+}
+
+body{
+    background: linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0.68),rgba(0,0,0,0)),url(fundo06.jpg)no-repeat;
+    background-size: cover;
+}
+
+.cover{
+    border: 1px solid black;
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    left: 10%;
+    top:20%;
+    border-radius: 8px;
+    box-shadow: 0px 0px 16px 7px;
+    opacity: 0.6;
+}
+.subcover{
+    border-bottom: 1px solid none;
+    background: black;
+    width: 300px;
+    height: 450px;
+    opacity: 0.6;
+    border-radius: 8px;
+}
+
+.coverimage{
+    text-align: center;
+}
+img{
+    border-radius: 20px;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    margin: -10px -9px;
+    opacity: 0.7;
+}
+
+.text{
+    position: absolute;
+    left: 31%;
+    top:50%;
+    margin: -1px 10px;
+}
+h1{
+    color:white;
+    font-family: kulim park,sans-serif;
+    line-height: 7px;
+    font-weight:normal;
+}
+h2{
+    color: white;
+    font-family: kulim park,sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    opacity: 0.3;
+    margin-top: -6px;
+    
+}
+.line{
+    border-bottom: 2px solid white;
+    position: absolute;
+    top:65%;
+    left: 15%;
+    width: 220px;
+    box-shadow: 1px 0px 4px;
+    color: hotpink;
+}
+.fa-circle{
+    color: hotpink;
+    position: absolute;
+    left: 35%;
+    margin-top: -7px;
+    
+}
+.number{
+    
+}
+h3{
+    position: absolute;
+    left: 15%;
+    top:63%;
+    font-size: 14px;
+    color:white;
+    font-family: kulim park ,sans-serif;
+    font-weight: normal;
+}
+h4{
+    position: absolute;
+    left: 81%;
+    top:62%;
+    font-size: 14px;
+    color:white;
+    font-family: kulim park ,sans-serif;
+    font-weight: normal;
+}
+
+.player{
+    border-bottom: 1px solid white;
+    font-size: 60px;
+}
+.fa-pause-circle{
+    color:hotpink;
+    position: absolute;
+    left: 43%;
+    top:72%;
+}
+
+.forward{
+    font-size: 44px;
+}
+.fa-forward{
+    color: white;
+    position: absolute;
+    left: 63%;
+    top:74%;
+    
+}
+
+.forward:hover{
+    font-size:50px;
+}
+
+.backward{
+    font-size: 44px;
+}
+
+.fa-backward{
+    color:white;
+    position: absolute;
+    left: 26%;
+    top:74%;
+}
+.backward:hover{
+    font-size: 50px;
+}
+
+.retweet{
+    font-size: 20px;
+    font-weight: normal;
+}
+.fa-retweet{
+    color:hotpink;
+    position: absolute;
+    left: 16%;
+    top:77%;
+}
+
+.repeat{
+    font-size: 20px;
+}
+.fa-repeat{
+    color:hotpink;
+    position: absolute;
+    left:80%;
+    top:77%;
+}
+.context{
+    position: absolute;
+    left: 35%;
+    top:20%;
+}
+
+h5{
+    font-size:50px;
+    color:white;
+    font-family: titillium web,sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+font{
+    color:white;
+    opacity: 0.2;
+}
+
+h6{
+    font-size: 14px;
+    color:white;
+    font-family: titillium web,sans-serif;
+    font-weight: normal;
+    width: 550px;
+    margin-top: -16%;
+    word-spacing: 5px;
+    opacity: 0.2;
+    text-align:justify;
+}
+.box{
+    position: absolute;
+    left: 35%;
+    top:55%;
+}
+
+input[type="submit"]{
+    
+    padding: 10px;
+    border:none;
+    opacity: 0.8;
+    color:white;
+    border-radius: 4px;
+    background-color: hotpink;
+}
+
+input[type="submit"]:hover{
+    background-color: deeppink;
+}
+
+.icon{
+    font-size: 12px;
+    color:hotpink;
+    font-family: kulim park ,sans-serif;
+    position: absolute;
+    left: 1%;
+}
+.fa-music{
+    color:hotpink;
+    font-weight: bold;
+}
+span{
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
