@@ -1,0 +1,190 @@
+.box{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: black;
+    box-shadow: 29px 18px 21px;
+}
+
+
+.icon i{
+    width: 40px;
+    color:white;
+}
+
+
+ul{
+    float:right;
+    font-family:candara;
+    font-size:17px;
+}
+
+
+ul li{
+    float:left;
+    width:100px;
+    text-decoration:none;
+    list-style-type:none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+ul li a:hover{
+    border-bottom: 4px solid yellow;
+}
+
+.main ul{
+    border:1px solid black;
+    padding:10px;
+    margin-top:0px;
+    background-color:transparent;
+    box-shadow: 19px 18px 21px;
+    
+}
+
+body{
+    background: linear-gradient( rgba(0,0,0,0.65),rgba(0,0,0,0.65),rgba(0,0,0,0.38),rgba(0,0,0,0)),url(zs1.jpg)no-repeat;
+    background-size:cover;
+}
+.letter{
+    border: 1px solid black;
+    width: 300px;
+    box-shadow: 5px 4px 8px 9px;
+    background-color:black;
+    border-radius: 2px;
+}
+.letter h2{
+    color:white;
+    font-family: candara;
+    text-align: center;
+}
+
+.fa-align-center{
+    color:yellow;
+}
+
+.submenu{
+    border: 1px solid transparent;
+    width: 280px;
+    background-color: black;
+    position: absolute;
+    left: 10%;
+    top:40%;
+    font-family: latha;
+    box-shadow: 9px 10px 11px 8px;
+    border-radius: 23px;
+}
+.submenu h1{
+    font-size:16px;
+    font-family: caveat, cursive;
+    font-weight: normal;
+    color:white;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.submenu:hover{
+    color: yellow;
+    box-shadow:1px 2px 2px 11px;
+}
+img{
+    border-radius: 23px;
+}
+    
+.fa-thumbs-o-up{
+    color:#0091D5;
+    padding: 12px;
+}
+
+.fa-heart{
+    color:red;
+}
+
+.fa-commenting-o{
+    color: white;
+}
+
+.fa-share-square-o{
+    color:#6AB187;
+}
+
+.submenu2{
+    
+    border: 1px solid transparent;
+    width: 280px;
+    background-color: black;
+    position: absolute;
+    left: 70%;
+    top:40%;
+    font-family: latha;
+    box-shadow: 9px 10px 11px 8px;
+    border-radius: 23px;
+    
+}
+
+.submenu2:hover{
+    color: yellow;
+    box-shadow:1px 2px 2px 11px;
+}
+.submenu2 h1{
+    
+    font-size:16px;
+    font-family: caveat, cursive;
+    font-weight: normal;
+    color:white;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+
+.fa-battery-full{
+    color:green;
+}
+.fa-hand-peace-o{
+    color:yellow;
+}
+
+.submenu3{
+    border: 1px solid transparent;
+    width: 280px;
+    background-color: black;
+    position: absolute;
+    left: 40%;
+    top:40%;
+    font-family: latha;
+    box-shadow: 9px 10px 11px 8px;
+    border-radius: 23px;
+    
+}
+
+.submenu3:hover{
+    color: yellow;
+    box-shadow:1px 2px 2px 11px;
+}
+.submenu3 h1{
+    font-size:16px;
+    font-family: caveat, cursive;
+    font-weight: normal;
+    color:white;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.fa-american-sign-language-interpreting{
+    color: yellow;
+}
+
+.fa-check-square{
+    color:green;
+}
+    
+    
+
+
+
+
+
+
+
