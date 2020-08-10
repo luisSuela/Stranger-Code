@@ -1,0 +1,109 @@
+.box{
+    border: 1px solid none;
+    width: 100%;
+    
+}
+
+.boxbar{
+    border: 1px solid black;
+    padding: 7px;
+    background: black;
+}
+
+.boxbar address a{
+    float: right;
+    text-decoration: none;
+    color:white;
+}
+
+.boxbar i{
+    color:white;
+    width: 30px;
+}
+.list{
+    border-bottom-width: 900px;
+    border-bottom: 1px solid darkgray;
+    padding:12px; 
+    float: right;
+}
+
+.list ul li{
+    float: left;
+    text-align: center;
+    width: 70px;
+    list-style-type: none;
+}
+
+
+.list ul li a{
+    text-decoration: none; 
+    color:white;
+
+}
+
+.list ul li a:hover{
+    border-bottom: 4px solid brown;
+    padding: 2px;
+}
+
+body{
+    background: linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65),rgba(0,0,0,0.38),rgba(0,0,0,0)),url(learn_1.jpg)no-repeat;
+    background-size: cover;
+    font-family: latha;
+}
+h2{
+   float: left;
+}
+
+.writer{
+    width: 650px;
+    float: right;
+}
+
+.writer h2{
+    font-family: titillium web , sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 1px 1px 1px;
+    padding-top: 50px;
+    line-height: 50px;
+}
+
+.writer h4{
+    font-family: quicksand ,sans-serif;
+    text-transform: capitalize;
+    width: 600px;
+    position: absolute;
+    top:35%;
+    opacity: 0.6;
+}
+
+.writer form input[type="submit"]{
+    position: absolute;
+    top: 45%;
+    left: 6%;
+    border: none;
+    color:white;
+    background-color: crimson;
+    text-transform: uppercase;
+    padding: 10px;
+    
+    
+}
+
+.writer form input[type="submit"]:hover{
+    background: green;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
