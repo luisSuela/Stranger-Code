@@ -1,0 +1,202 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background:#191919;
+}
+
+.box{
+    width: 30%;
+    height: 70%;
+    border: 1px solid black;
+    margin: 50px auto;
+    background:#191919;
+    box-shadow: 0px 1px 5px 2px;
+}
+
+.image{
+    position: absolute;
+    left: 42%;
+    top: 20%;
+}
+h2{
+    position: absolute;
+    top: -22%;
+    left: 16%;
+    color: white;
+    text-transform: uppercase;
+    font-family: signika,sans-serif;
+    font-weight: normal;
+}
+
+font{
+    opacity: 0.3;
+}
+
+h4{
+    position: absolute;
+    top: 100%;
+    left: -18%;
+    color: white;
+    text-transform: capitalize;
+    font-family: signika,sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    width: 500px;
+    
+}
+
+.information{
+    position: absolute;
+    top: -32%;
+    left: -40%;
+    background:#191919;
+    width: 70%;
+    height: 85%;
+    padding: 50%;
+    border: 10px;
+    opacity:0;
+    -webkit-transform:scale(0);
+    -ms-transform:scale(0);
+    transform: scale(0);
+    -webkit-transition:all 0.5s ease-out;
+    -o-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+}
+
+.strange{
+    position: absolute;
+    left: 25%;
+    top: 0%;
+}
+
+h5{
+    color: white;
+    font-family: signika,sans-serif;
+    font-weight: normal;
+    font-size: 35px;
+    position: absolute;
+    top:44%;
+    left: 25%;
+    text-transform: capitalize;
+}
+
+h6{
+    color: #e32879;
+    font-family: libre franlin,sans-serif;
+    font-weight: normal;
+    font-size: 17px;
+    position: absolute;
+    top:54%;
+    left: 35%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.fa-facebook{
+    position: absolute;
+    left: 20%;
+    top:70%;
+    color:white;
+    background: #303030;
+    width:20px;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.fa-facebook:hover{
+    background-image: url(ONE.jpg);
+    background-size: cover;
+}
+
+.fa-twitter{
+    position: absolute;
+    left:37%;
+    top:70%;
+    color:white;
+    background: #303030;
+    width:20px;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.fa-twitter:hover{
+    background-image: url(ONE.jpg);
+    background-size: cover;
+}
+
+.fa-instagram{
+    position: absolute;
+    left:54%;
+    top:70%;
+    color:white;
+    background: #303030;
+    width:20px;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.fa-instagram:hover{
+    background-image: url(ONE.jpg);
+    background-size: cover;
+}
+
+.fa-pinterest{
+    position: absolute;
+    left:71%;
+    top:70%;
+    color:white;
+    background: #303030;
+    width:20px;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.fa-pinterest:hover{
+    background-image: url(ONE.jpg);
+    background-size: cover;
+}
+
+.image:hover .information{
+    opacity: 1;
+    -webkit-transform:scale(1);
+    -ms-transform:scale(1);
+    transform: scale(1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
